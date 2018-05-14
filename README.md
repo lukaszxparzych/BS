@@ -1,2 +1,2 @@
 # BS
-Basic Sniffer in C (Linux)
+Basic Sniffer UDP in C (Linux)

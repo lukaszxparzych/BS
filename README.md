@@ -1,2 +1,2 @@
 # BS
-Basic Sniffer
+Basic Sniffer in C (Linux)
